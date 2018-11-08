@@ -1,0 +1,22 @@
+body{
+  font-family: 'Roboto', sans-serif;
+}
+h1{
+  color: black;
+  font-size: 200%;
+}
+
+h2{
+  color: black;
+  font-size: 165%;
+}
+
+h3{
+  color:dimgrey;
+  font-size: 125%;
+}
+
+h4{
+  color:dimgrey;
+  font-size: 100%;
+}
